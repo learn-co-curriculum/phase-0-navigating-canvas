@@ -13,4 +13,4 @@ courses and other information in Canvas.
 **Sidebar** - found within each course, the Sidebar houses various features that
 allow access to the course materials.
 
-View the video tutorial for more information on how to use Canvas effectively.
+View the video tutorial for more information on how to use Canvas assignment.
