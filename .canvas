@@ -1,10 +1,10 @@
 ---
 :lessons:
-- :id: 13660
-  :course_id: 600
-  :canvas_url: https://learning.flatironschool.com/courses/600/pages/your-dashboard-global-navigation-and-sidebar
-  :type: page
 - :id: 68336
   :course_id: 3280
   :canvas_url: https://learning.flatironschool.com/courses/3280/pages/navigating-canvas
+  :type: page
+- :id: 233776
+  :course_id: 6602
+  :canvas_url: https://learning.flatironschool.com/courses/6602/pages/navigating-canvas
   :type: page
